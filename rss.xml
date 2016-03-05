@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Design Portfolio — Alec Sibilia ]]></title>
         <description><![CDATA[Design Portfolio — Alec Sibilia ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alecsibilia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 20:07:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 20:08:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alecsibilia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Bluetrain Rebrand</p>]]></description>
-            <link>undefined28b08025-e7ce-47e7-9d38-2467f459d4b7/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f64c34c-53f3-4c45-bfed-a52da71727a7.jpg">]]></description>
+            <link>https://thegrid.ai/alecsibilia/28b08025-e7ce-47e7-9d38-2467f459d4b7/index.html</link>
             <guid isPermaLink="false">28b08025-e7ce-47e7-9d38-2467f459d4b7</guid>
-            <pubDate>Sat, 05 Mar 2016 20:07:36 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 20:08:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
