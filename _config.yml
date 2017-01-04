@@ -1,29 +1,42 @@
-name: alecsibilia
-favicon: null
-layout_spectrum: 0.83172
-typography_spectrum: 0.82655
-title: TheGrid Test Site
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.7822495364364569
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.412514038179623
+  lightness: 0.032361053879843046
+  saturation: 0.5257309589159703
+  rhythmicContrast: 0.10676809669712024
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.0625
-  lightness: 0.9116853585001081
-  saturation: 0.125
-  rhythmicContrast: 1
-purpose: []
+layout_spectrum: 0.3570871218836101
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Alec Sibilia
+  email: sibilia.alec@gmail.com
+name: alecsibilia
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Dribbble
+    url: 'https://dribbble.com/amsibilia'
+    type: external
+favicon: null
+title: Make Products That Matter.
+content: []
+description: Alec Sibilia - Product / UX Designer & Developer
+purpose:
+  - type: contact
+    url: 'mailto:sibilia.alec@gmail.com'
+    label: Let's Chat
